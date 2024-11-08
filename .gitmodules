@@ -7,4 +7,4 @@
 	url = https://github.com/cran/l0ara
 [submodule "tsdf"]
 	path = tsdf
-	url = https://github.com/wguo1017/tsdf
+	url = https://github.com/cran/tsdf
